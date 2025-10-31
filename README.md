@@ -1,2 +1,6 @@
 # alura-curso-htm-css
-Curso do Alura sobre HTML e CSS
+Curso do Alura praticando HTML e CSS
+
+## Tecnologias
+* HTML
+* CSS
